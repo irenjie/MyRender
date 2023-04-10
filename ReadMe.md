@@ -9,3 +9,5 @@
 - LookAt
 - 材质贴图、法线贴图、高光贴图
 - shadows buffer，计算阴影
+
+查看渲染结果展示.bmp
